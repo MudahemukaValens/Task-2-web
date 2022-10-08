@@ -1,0 +1,12 @@
+*{
+	font-family:verdana;
+	box-sizing: border-box;
+}
+.images{
+	width: 80%;
+	margin: 10px;
+}
+.images img{
+	width: 20%;
+	height: auto;
+}
