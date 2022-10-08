@@ -10,3 +10,10 @@
 	width: 20%;
 	height: auto;
 }
+ul li{
+	list-style-type: none;
+
+}
+ul li a{
+	text-decoration: none;
+}
